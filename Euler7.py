@@ -3,7 +3,7 @@ import collections
 from itertools import islice
 
 def take_nth(n,iterable):
-    return islice(iterable, n-1, n).next()
+    return next(islice(iterable, n-1, n))
 
 
 def genPrime():

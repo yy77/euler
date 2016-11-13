@@ -20,4 +20,4 @@ while n < max
   n += 2
 end
 
-print target
+puts target

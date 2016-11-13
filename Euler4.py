@@ -2,6 +2,7 @@
 # as product of 3 digit is either 5 digit or 6 digit, better try the 6 digit.
 # aslo 6 digit palindrome is div by 11, so try that way.
 
+from functools import reduce
 
 def isPlindrome(num):
     numstr = str(num)
