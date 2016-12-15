@@ -9,3 +9,4 @@ Version note: Ruby 2.3, Python 3.5.x
 * Euler 5: Find the smallest multiple that is evenly divisable for 1 to 20? Answer: 232792560
 * Euler 6: the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum. Answer: 25164150
 * Euler 7: Find the 10,001st prime. Answer: 104743
+* Euler 8: Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. Answer: 23514624000
